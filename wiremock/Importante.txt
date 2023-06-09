@@ -1,0 +1,3 @@
+Información importante
+
+Los archivos healthcheck.json y response_healthcheck.json en las carpetas mappings y __files no deben ser eliminados. Si bien son archivos que sirven de ejemplo, también funcionan como healthcheck a la hora de levantar el pod con el servicio de WireMock.

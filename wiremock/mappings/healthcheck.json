@@ -1,0 +1,15 @@
+{
+  "id" : "efeefd62-6899-4323-9454-97cb5dec5061",
+  "request" : {
+    "url" : "/get/first",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "statusMessage" : "Everything was just fine!",
+    "bodyFileName" : "response_healthcheck.json"
+  },
+  "uuid" : "efeefd62-6899-4323-9454-97cb5dec5061",
+  "persistent" : true,
+  "insertionIndex" : 9
+}
