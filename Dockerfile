@@ -1,5 +1,5 @@
 # We propose to use the image of the creator of K6, Load Impact AB.
-FROM grafana/k6:0.44.1
+FROM grafana/k6:0.42.0
 ARG JARVIS_COMPONENT_ID
 ARG APPNAME
 ENV JARVIS_COMPONENT_ID=$JARVIS_COMPONENT_ID
